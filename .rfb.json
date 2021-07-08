@@ -1,0 +1,8 @@
+{
+  "isReactNative": true,
+  "useTypescript": true,
+  "generateTests": false,
+  "generateStyles": true,
+  "stylesExtension": ".ts",
+  "rootComponentsDirectory": "src/components/"
+}
